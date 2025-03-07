@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Bike Sharing Rentals Analysis and Visualization
 
 ## Setup Environment - venv
 ```
